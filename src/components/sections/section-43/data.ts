@@ -39,10 +39,10 @@ export interface Section43Props {
 export const defaultDataSection43: Section43Data = {
   id: "section-uid-43",
   title: "Browse products",
-  introduction: "Explore the products currently available on NexaMart.",
+  introduction: "Explore the products currently available on Lawdex.",
   benefits: [],
   imageUrl: "/Logo.png",
-  imageAlt: "NexaMart logo",
+  imageAlt: "Lawdex logo",
   backgroundColor: "#f8f9fb",
   headingColor: "#24349a",
   textColor: "#202641",

@@ -54,10 +54,10 @@ export const defaultDataSection11: Section11Data = {
   id: "section-uid-11",
   paddingX: 0,
   paddingY: 0,
-  eyebrow: "NexaMart · NxMart",
+  eyebrow: "Lawdex · NxMart",
   showEyebrow: true,
-  title: "NexaMart",
+  title: "Lawdex",
   subTitle: "Online shopping",
-  description: "NexaMart serves customers across Bangladesh.",
+  description: "Lawdex serves customers across Bangladesh.",
   experiences: [],
 };

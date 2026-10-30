@@ -31,10 +31,10 @@ export const defaultData: HomeData = {
   forceUpdate: "false",
   paddingX: 0,
   paddingY: 0,
-  eyebrow: "NexaMart · NxMart",
+  eyebrow: "Lawdex · NxMart",
   title: "Online shopping across Bangladesh",
-  intro: "Browse available products and shop online with NexaMart.",
+  intro: "Browse available products and shop online with Lawdex.",
   imageUrl: "/Logo.png",
-  imageAlt: "NexaMart logo",
+  imageAlt: "Lawdex logo",
   sectionsJson: JSON.stringify(defaultCards),
 };

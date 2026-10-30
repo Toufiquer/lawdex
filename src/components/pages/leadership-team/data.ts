@@ -55,10 +55,10 @@ export const defaultLayout = {
 
 export const defaultDataLeadershipTeam: ILeadershipTeamData = {
   pageUid: "leadership-team-uid",
-  pageName: "NexaMart Team",
-  eyebrow: "NexaMart · NxMart",
-  title: "NexaMart",
-  description: "NexaMart is an online shopping platform serving customers across Bangladesh.",
+  pageName: "Lawdex Team",
+  eyebrow: "Lawdex · NxMart",
+  title: "Lawdex",
+  description: "Lawdex is an online shopping platform serving customers across Bangladesh.",
   founderLabel: "Founder",
   ceo: { id: "ceo", name: "", title: "", bio: "", image: "" },
   rows: [],
