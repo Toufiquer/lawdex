@@ -6,8 +6,8 @@
 |-----------------------------------------
 */
 
-import { LoginPanel } from "./login-panel";
+import { DemoLoginPanel } from "../login-demo/demo-login-panel";
 
 export default function LogPage() {
-  return <LoginPanel />;
+  return <DemoLoginPanel />;
 }
